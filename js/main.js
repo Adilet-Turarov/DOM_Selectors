@@ -59,7 +59,7 @@
 // TASK #7
 // — среди набора элементов с классом .row удалите класс у второго элемента
 
-// let elements = document.getElementsByClassName('row')[1];
+// let elements = document.getElementsByClassName('.row')[1];
 // elements.classList.remove('row')
 
 
